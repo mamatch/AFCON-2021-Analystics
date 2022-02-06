@@ -1,0 +1,3 @@
+
+GET https://api.twitter.com/labs/2/tweets/1138505981460193280?expansions=attachments.media_keys&tweet.fields=created_at,author_id,lang,source,public_metrics,context_annotations,entities
+Authorization: Bearer AAAAAAAAAAAAAAAAAAAAAGlPXwEAAAAAfFTccytGwm%2FbektkgjTgaCagy4A%3DL5RsJelqRBmEgZCcOcc4h7tic50QYYdu25As5P4oDGPwDg04K4
